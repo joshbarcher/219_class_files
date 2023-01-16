@@ -2,7 +2,6 @@ package driver;
 
 import groups.ArrangeableGroup;
 import groups.IntegerPair;
-import groups.NameGroup;
 import groups.StringGroup;
 
 public class WorkWithGroups {
