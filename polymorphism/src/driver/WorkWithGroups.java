@@ -10,8 +10,6 @@ public class WorkWithGroups {
         ArrangeableGroup strings = new StringGroup(
                 "not", "and", "or", "but", "then");
 
-        arrange(pair);
-        arrange(strings);
     }
 
     public static void arrange(ArrangeableGroup group) {
